@@ -67,6 +67,10 @@ img {
   height: 100vh;
 }
 
+.card p {
+  padding-bottom: 20px;
+}
+
 .copyright {
   writing-mode: vertical-lr;
 }
